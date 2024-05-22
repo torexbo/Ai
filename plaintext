@@ -1,0 +1,12 @@
+my-poster-generator/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── Home.js
+│   │   ├── PosterGenerator.js
+│   ├── App.js
+│   ├── index.js
+├── .gitignore
+├── package.json
+└── README.md
