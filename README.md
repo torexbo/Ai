@@ -28,6 +28,7 @@ elif x_opr == "%":
 else:
     print("You May Make Some Mistake I Think You Should Try Again ✔️")
 ```
+```python
 # Odd Number Finder
 i = 11
 while i < 50:
