@@ -27,7 +27,7 @@ elif x_opr == "%":
     print("The Result Is", x2 % x3)
 else:
     print("You May Make Some Mistake I Think You Should Try Again ✔️")
-## Code Example
+```
 # Odd Number Finder
 i = 11
 while i < 50:
