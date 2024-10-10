@@ -7,7 +7,7 @@ This repository contains a simple Python script that performs two tasks:
 
 ## Code Example
 
-Here's the script included in this repository:
+Here's the script included in Calculator Code Basic Of Simple GUI Python Calculator :
 
 ```python
 # Simple Calculator
@@ -28,6 +28,7 @@ elif x_opr == "%":
 else:
     print("You May Make Some Mistake I Think You Should Try Again ✔️")
 ```
+The Odd 10 To 50 Code :
 ```python
 # Odd Number Finder
 i = 11
