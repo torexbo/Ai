@@ -6,7 +6,7 @@ This repository contains a simple Python script that performs two tasks:
 1. **Basic Calculator**: Allows the user to perform addition, subtraction, multiplication, division, and modulus operations.
 2. **Odd Number Finder**: Prints out all odd numbers between 11 and 49.
 
-## Code Example
+## Code Example Calculator 
 
 Here's the script included in Calculator Code Basic Of Simple GUI Python Calculator :
 
@@ -29,6 +29,7 @@ elif x_opr == "%":
 else:
     print("You May Make Some Mistake I Think You Should Try Again ✔️")
 ```
+## Code Example Odd Finder 
 The Odd 10 To 50 Code :
 ```python
 # Odd Number Finder
