@@ -1,4 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KtMZofjJ-kAYtrt4axVdzFIxv_ZHvbat)
+
+[![Open Google Document](https://img.shields.io/badge/Open-Google%20Doc-blue?style=for-the-badge&logo=google-docs)](https://docs.google.com/document/d/1GGaW1_8evMyOW-Q8khqLwnj8bHx-GoNY/edit?usp=drivesdk&ouid=100192263831631728156&rtpof=true&sd=true)
+
 # Python Calculator and Odd Number Finder
 
 This repository contains a simple Python script that performs two tasks:
